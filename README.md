@@ -35,7 +35,7 @@
 
 - Building: [Big Red Macro](https://github.com/Big-Red-Macro/big-red-macro.git) — macro-level tooling project
 - Learning: Geofencing, location-aware systems, and mobile APIs
-- Open to: Summer 2026 internships in AI / full-stack / data science
+- Open to: Summer 2026 internships
 
 ---
 
