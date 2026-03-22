@@ -1,8 +1,8 @@
 # Krish Jana [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-jana) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kj364@cornell.edu)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=99999&color=A855F7&width=400&lines=Data+Science+Student+%40+Cornell+University)](https://git.io/typing-svg)
+<sub>Interest in AI and Fullstack Development</sub>
 
-Interest in AI and Fullstack Development
 ---
 
 ## Skills
@@ -47,15 +47,6 @@ Interest in AI and Fullstack Development
 | [Tauron](https://github.com/krishjana06/Tauron) | Cornell Digital Ag Hackathon Project | Python |
 | [gen-ai-project](https://github.com/krishjana06/gen-ai-project) | Generative AI application | TypeScript |
 | [AI-Email-Generation-Automation-w-Google-Sheets](https://github.com/krishjana06/AI-Email-Generation-Automation-w-Google-Sheets) | AI-driven automated email drafting system using OpenAI and App Scripts for Google Sheets | JavaScript |
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishjana06&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishjana06&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
 
 ---
 
