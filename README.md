@@ -39,14 +39,34 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [AI-HackathonNYC/helicity](https://github.com/AI-HackathonNYC/helicity) | Cornell AI Hackathon Project | Python |
-| [Tauron](https://github.com/krishjana06/Tauron) | Cornell Digital Ag Hackathon Project | Python |
-| [gen-ai-project](https://github.com/krishjana06/gen-ai-project) | CourseGraph | TypeScript |
-| [AI-Email-Generation-Automation-w-Google-Sheets](https://github.com/krishjana06/AI-Email-Generation-Automation-w-Google-Sheets) | AI-driven automated email drafting system using OpenAI and App Scripts for Google Sheets | JavaScript |
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/AI-HackathonNYC/helicity">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AI-HackathonNYC&repo=helicity&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/krishjana06/Tauron">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishjana06&repo=Tauron&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/krishjana06/gen-ai-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishjana06&repo=gen-ai-project&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/krishjana06/AI-Email-Generation-Automation-w-Google-Sheets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishjana06&repo=AI-Email-Generation-Automation-w-Google-Sheets&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
