@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/krishjana06/gen-ai-project">
+      <a href="https://github.com/krishjana06/gen-ai-project.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishjana06&repo=gen-ai-project&theme=dark&hide_border=true" />
       </a>
     </td>
