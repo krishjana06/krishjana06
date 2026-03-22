@@ -1,7 +1,7 @@
 # Krish Jana [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-jana) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kj364@cornell.edu)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=99999&color=A855F7&width=400&lines=Data+Science+Student+%40+Cornell+University)](https://git.io/typing-svg)
-<sub>Interest in AI and Fullstack Development</sub>
+<br><small>Interest in AI and Fullstack Development</small>
 
 ---
 
@@ -15,7 +15,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -45,7 +46,7 @@
 |---|---|---|
 | [AI-HackathonNYC/helicity](https://github.com/AI-HackathonNYC/helicity) | Cornell AI Hackathon Project | Python |
 | [Tauron](https://github.com/krishjana06/Tauron) | Cornell Digital Ag Hackathon Project | Python |
-| [gen-ai-project](https://github.com/krishjana06/gen-ai-project) | Generative AI application | TypeScript |
+| [gen-ai-project](https://github.com/krishjana06/gen-ai-project) | CourseGraph | TypeScript |
 | [AI-Email-Generation-Automation-w-Google-Sheets](https://github.com/krishjana06/AI-Email-Generation-Automation-w-Google-Sheets) | AI-driven automated email drafting system using OpenAI and App Scripts for Google Sheets | JavaScript |
 
 ---
