@@ -33,7 +33,7 @@
 
 ## Currently
 
-- Building: [Big Red Macro](https://github.com/Big-Red-Macro/big-red-macro.git) — macro-level tooling project
+- Building: [Big Red Macro](https://github.com/Big-Red-Macro/big-red-macro.git) - AI nutrition tracker for dining
 - Learning: Geofencing, location-aware systems, and mobile APIs
 - Open to: Summer 2026 internships
 
