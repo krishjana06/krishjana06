@@ -39,34 +39,16 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/AI-HackathonNYC/helicity">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AI-HackathonNYC&repo=helicity&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/krishjana06/Tauron">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishjana06&repo=Tauron&theme=dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/krishjana06/gen-ai-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishjana06&repo=gen-ai-project&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/krishjana06/AI-Email-Generation-Automation-w-Google-Sheets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishjana06&repo=AI-Email-Generation-Automation-w-Google-Sheets&theme=dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1e293b', 'primaryTextColor': '#22d3ee', 'primaryBorderColor': '#06b6d4', 'lineColor': '#22d3ee', 'secondaryColor': '#0f172a', 'tertiaryColor': '#334155', 'fontSize': '14px'}}}%%
+timeline
+    title 📌 Areas of Focus
+    Data Science : 📊
+    Machine Learning : 🤖
+    Full Stack Development : 🏗️
+    Cloud Infrastructure : ☁️
+    AI Applications : 🧠
+```
 
 ---
 
