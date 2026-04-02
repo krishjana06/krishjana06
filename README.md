@@ -41,14 +41,7 @@
 
 ## 📌 Areas of Focus
 
-```mermaid
-%%{init: {"flowchart": {"useMaxWidth": false, "padding": 10}}}%%
-flowchart LR
-    A([Data Science 📊]) --- B([Machine Learning 🤖]) --- C([Full Stack Development 🏗️]) --- D([Cloud Infrastructure ☁️]) --- E([AI Applications 🧠]) ~~~ F[ ]
-    classDef default fill:transparent,stroke:#7c3aed,stroke-width:2px,color:#ffffff;
-    linkStyle 0,1,2,3 stroke:#7c3aed,stroke-width:2px;
-    style F fill:transparent,stroke:transparent,color:transparent;
-```
+![Areas of Focus](./areas-of-focus.svg)
 
 ---
 
