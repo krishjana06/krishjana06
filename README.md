@@ -39,15 +39,14 @@
 
 ---
 
+## 📌 Areas of Focus
+
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1e293b', 'primaryTextColor': '#22d3ee', 'primaryBorderColor': '#06b6d4', 'lineColor': '#22d3ee', 'secondaryColor': '#0f172a', 'tertiaryColor': '#334155', 'fontSize': '14px'}}}%%
-timeline
-    title 📌 Areas of Focus
-    Data Science : 📊
-    Machine Learning : 🤖
-    Full Stack Development : 🏗️
-    Cloud Infrastructure : ☁️
-    AI Applications : 🧠
+flowchart LR
+    A([Data Science 📊]) --- B([Machine Learning 🤖]) --- C([Full Stack Development 🏗️]) --- D([Cloud Infrastructure ☁️]) --- E([AI Applications 🧠])
+
+    classDef default fill:transparent,stroke:#7c3aed,stroke-width:2px,color:#ffffff;
+    linkStyle default stroke:#7c3aed,stroke-width:2px;
 ```
 
 ---
