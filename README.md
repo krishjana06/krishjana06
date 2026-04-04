@@ -1,7 +1,6 @@
 # Krish Jana [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-jana) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kj364@cornell.edu)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=99999&color=A855F7&width=400&lines=Data+Science+Student+%40+Cornell+University)](https://git.io/typing-svg)
-<br><small>Interest in AI and Fullstack Development</small>
 
 ---
 
